@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Code example</h1>
+<p>var person={<br> 
+firsrName:"Your first name",<br>
+lastName :"Your last name",<br> 
+studentId:"Your student ID",<br> 
+}</p>
+
+</body>
+</html>
